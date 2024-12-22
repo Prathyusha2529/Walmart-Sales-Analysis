@@ -1,6 +1,6 @@
 # Walmart-Sales-Analysis
 
-### Detailed Overview
+### Overview
 The **Walmart Sales Analysis Project** aims to provide a comprehensive understanding of sales dynamics across multiple Walmart stores using historical data. By analyzing trends, seasonal patterns, and external factors such as holidays, weather, and economic conditions, the project seeks to uncover actionable insights for optimizing sales and inventory management. Advanced data visualization techniques highlight key relationships, while machine learning models predict future sales with accuracy. This project is designed to support business decisions by combining data science expertise with real-world retail challenges.
 
 **Objective**
